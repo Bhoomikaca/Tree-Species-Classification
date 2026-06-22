@@ -43,4 +43,4 @@ The model was trained to classify multiple tree species and demonstrated strong 
 ## Author
 
 Bhoomika C A
-Artificial Intelligence and Machine Learning
+
